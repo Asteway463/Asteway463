@@ -10,7 +10,7 @@ I enjoy turning ideas into clean, useful, and modern web applications.
 
 ## 🧑‍💻 About Me
 
-* 🌱 Currently learning **TypeScript, React, Next.js & Backend Development**
+
 * 💻 Building real-world projects with modern web technologies
 * 🎯 Working toward becoming a **professional Software Engineer**
 * 🚀 Interested in **Full-Stack Development, AI, and Startups**
@@ -60,22 +60,7 @@ An Ethiopia-focused travel platform designed to help people discover destination
 
 **Tech:** React • Node.js • Express.js • PostgreSQL • Tailwind CSS
 
----
 
-### 📋 Kanban Board
-
-A modern task-management application inspired by Kanban project management.
-
-**Features:**
-
-* 📌 Create and manage tasks
-* 🔄 Move tasks between columns
-* 🎨 Modern responsive UI
-* ⚡ Fast user experience
-
-**Tech:** React • JavaScript • CSS
-
----
 
 ## 📊 GitHub Stats
 
@@ -97,18 +82,6 @@ A modern task-management application inspired by Kanban project management.
 
 ---
 
-## 🎯 2026 Goals
-
-* [ ] Become a stronger Full-Stack Developer
-* [ ] Build more production-ready applications
-* [ ] Improve my TypeScript skills
-* [ ] Master Next.js
-* [ ] Learn advanced backend development
-* [ ] Contribute to open-source projects
-* [ ] Participate in more hackathons
-* [ ] Build technology that solves real problems in Ethiopia 🇪🇹
-
----
 
 ## 🤝 Let's Connect
 
