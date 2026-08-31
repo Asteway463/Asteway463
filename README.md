@@ -31,7 +31,7 @@ I enjoy turning ideas into clean, useful, and modern web applications.
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql" />
 </p>
 
 ### Tools
