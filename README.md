@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Asteway Teshome
+# 👋 Hi, I'm Asteway 
 
 ### 🚀 Full-Stack Developer | JavaScript & TypeScript Developer
 
