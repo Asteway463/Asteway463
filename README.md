@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Asteway 
+# 👋 Hi, I'm Asteway (Atnatewos)
 
 ### 🚀 Full-Stack Developer | JavaScript & TypeScript Developer
 
