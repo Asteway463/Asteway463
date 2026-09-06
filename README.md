@@ -1,4 +1,4 @@
-change this my readme in to html and add this tag on the top i am about to add on google search console   # 👋 Hi, I'm Asteway (Atnatewos)
+ # 👋 Hi, I'm Asteway (Atnatewos)
 
 ### 🚀 Full-Stack Developer | JavaScript & TypeScript Developer
 
