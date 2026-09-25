@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="pc-dK1XtUsyKRzi_D2tM4Vy0AQqQrFiMtrLOXe6oqns" />
+
 # 👋 Hi, I'm Asteway (Atnatewos)
 
 <p align="center">
