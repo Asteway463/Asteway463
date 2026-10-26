@@ -34,7 +34,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **18-year-old Full-Stack Developer and Grade 11 student from Ethiopia 🇪🇹** who enjoys turning complex ideas into functional, real-world applications.
+I'm a passionate **18-year-old software engineer and Grade 11 student from Ethiopia 🇪🇹** who enjoys turning complex ideas into functional, real-world applications.
 
 I love building software that is **useful, clean, modern, and practical**. I learn primarily by building production-ready projects, solving architectural challenges, experimenting with modern tech stacks, and continuously refining my engineering skills.
 
